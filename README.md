@@ -1,4 +1,4 @@
-#Homelab
+# Homelab
 
 Documentation for my personal homelab environment.
 
