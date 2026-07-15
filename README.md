@@ -23,6 +23,7 @@ The goal of this lab is to gain hands-on experience with and just have fun/expir
 ## Status
 
 | Proxmox host installed | ✅ Complete |
+
 | Ubuntu Server VM | ✅ Complete |
 
 
