@@ -63,7 +63,7 @@ vmbr0: bridge port nic1 does not exist
 
 That pointed me toward the network bridge configuration.
 
-###Step 4: Find the Correct Network Interface
+### Step 4: Find the Correct Network Interface
 
 I listed the available network interfaces.
 
@@ -78,7 +78,7 @@ The replacement motherboard named the network interface eno1, but my Proxmox con
 
 Because nic1 didn't exist anymore, the vmbr0 bridge couldn't start.
 
-###Step 5: Fix the Configuration
+### Step 5: Fix the Configuration
 
 I edited the network configuration.
 
