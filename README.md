@@ -1,6 +1,3 @@
-Here's the corrected markdown:
-
-markdown
 # Homelab
 Documentation for my personal homelab environment.
 
