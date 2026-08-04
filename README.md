@@ -38,12 +38,12 @@ The goal of this lab is hands-on experience and  to just have fun experimenting 
 
 ## What's Next
 - [ ] Configure Tailscale subnet routing
-- [ ] Create network documentation
+- [X] Create network documentation
 - [ ] Deploy Docker services
 
 ## Documentation
 Detailed write-ups can be found in:
-- `/docs/hardware.md`
-- `/docs/proxmox.md`
-- `/docs/networkplan.md`
-- `/docs/tailscale.md`
+- [Hardware](docs/hardware.md)
+- [Proxmox Setup](docs/proxmox.md)
+- [Networking](docs/networking.md)
+- [Tailscale](docs/tailscale.md)
