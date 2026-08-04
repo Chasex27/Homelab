@@ -72,7 +72,7 @@ Future improvements:
 The server currently hosts:
 
 - Proxmox VE hypervisor
-- Debian Server virtual machine
+- Unbuntu Server virtual machine
 
 ---
 
