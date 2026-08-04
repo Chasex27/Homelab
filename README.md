@@ -3,7 +3,7 @@ Documentation for my personal homelab environment.
 
 This repository tracks the design, deployment, and growth of my home server infrastructure. The project starts with a Proxmox virtualization environment, Ubuntu Server, and Tailscale remote access, with additional networking, containerization, and security projects planned.
 
-The goal of this lab is hands-on experience — and honestly, just having fun experimenting with:
+The goal of this lab is hands-on experience and  to just have fun experimenting with:
 - Linux administration
 - Virtualization
 - Networking
