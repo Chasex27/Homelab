@@ -47,4 +47,4 @@ Detailed write-ups can be found in:
 - [Proxmox Setup](docs/proxmox.md)
 - [Networking](docs/networking.md)
 - [Tailscale](docs/networking/tailscale.md)
-- [OPNsense](docs/netowrking/OPNsense.md)
+- [OPNsense](/docs/networking/opnsense.md)
